@@ -106,7 +106,7 @@ JellyWatch transforms the management of your Jellyfin servers into a modern, int
 ➡️ [Download JellyWatch on Google Play](https://play.google.com/store/apps/details?id=com.jellywatch.app)
 
 You can also visit the official website:  
-🌐 [https://jellywatch-9cc55.web.app](https://jellywatch-9cc55.web.app)
+🌐 [https://jellywatch-9cc55.web.app](https://jellywatch.app)
 
 ---
 
