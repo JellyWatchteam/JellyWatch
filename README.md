@@ -1,4 +1,4 @@
-# JellyWatch
+Lui# JellyWatch
 
 **JellyWatch** is the ultimate Android application for monitoring and managing your **Jellyfin** servers in real time. Designed with a modern interface based on **Material Design 3**, it offers an exceptional user experience for all media server administrators.
 
@@ -93,8 +93,7 @@
 • Swedish  
 • Hindi  
 • Simplified Chinese  
-• Traditional Chinese  
-• Arabic  
+• Traditional Chinese
 
 JellyWatch transforms the management of your Jellyfin servers into a modern, intuitive and complete experience. Whether you're a beginner or expert administrator, the application adapts to your needs with a clear interface and powerful features.
 
