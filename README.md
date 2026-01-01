@@ -1,4 +1,4 @@
-Lui# JellyWatch
+# JellyWatch
 
 **JellyWatch** is the ultimate Android application for monitoring and managing your **Jellyfin** servers in real time. Designed with a modern interface based on **Material Design 3**, it offers an exceptional user experience for all media server administrators.
 
