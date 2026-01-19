@@ -8,7 +8,6 @@
 
 [![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jellywatch.app)
 [![Website](https://img.shields.io/badge/Website-jellywatch.app-purple?style=for-the-badge&logo=safari&logoColor=white)](https://jellywatch.app)
-[![Material Design 3](https://img.shields.io/badge/Material_Design-3-blue?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/)
 
 ---
 
@@ -341,6 +340,6 @@ All support requests must be submitted **within the application**:
 
 **© 2026 JellyWatch. All rights reserved.**
 
-[Website](https://jellywatch.app) • [Privacy Policy](https://jellywatch.app/privacy) • [Terms of Service](https://jellywatch.app/terms)
+[Website](https://jellywatch.app) • [Privacy Policy](https://jellywatch.app/privacy)
 
 </div>
