@@ -72,31 +72,32 @@
 
 ## 🔗 External Services Integration
 
-**JellyWatch** seamlessly integrates with popular media management tools and systems:  
+**JellyWatch** seamlessly integrates with **15+ popular media management tools and systems**.  
+*Explore the full interactive showcase on our website!*
 
-- **Automation & Requests**
-  - Radarr – Movie automation  
-  - Sonarr – TV series automation  
-  - Prowlarr – Indexer management  
-  - Jellyseerr – User request management  
-  - Seerr – Alternative request management  
+- **Media Requests**
+  - Jellyseerr – Request and manage movies & TV shows
+  - Seerr – Alternative media request platform
 
-- **Statistics & Analytics**
-  - Jellystat – Advanced media statistics  
+- **Download Automation**
+  - Radarr – Automated movie downloads & monitoring
+  - Sonarr – TV series automation & tracking
+  - Prowlarr – Indexer manager for *arr apps
 
 - **Torrent Clients**
-  - Deluge  
-  - Transmission  
-  - uTorrent  
-  - qBittorrent  
+  - qBittorrent – Lightweight torrent client
+  - Deluge – Flexible BitTorrent client
+  - Transmission – Fast & easy torrent client
+  - uTorrent – Popular torrent application
 
-- **NAS & Servers**
-  - TrueNAS  
-  - Unraid  
+- **Analytics & Stats**
+  - Jellystat – Advanced Jellyfin statistics & analytics
 
-- **Operating Systems**
-  - Windows  
-  - Linux  
+- **Server Management**
+  - TrueNAS – NAS storage management
+  - Unraid – Unraid server monitoring
+  - SSH – Secure shell server access
+  - WinRM – Windows Remote Management  
 
 ---
 
@@ -117,6 +118,36 @@
 ## 🌍 Multilingual Support
 - French, English, Spanish, Italian, German, Dutch  
 - Portuguese, Swedish, Hindi, Simplified Chinese, Traditional Chinese  
+
+---
+
+## 🌐 Modern Web Experience
+
+Visit our **redesigned website** featuring an interactive showcase of JellyWatch's capabilities:
+
+### Interactive Features
+- **Live App Mockups** – Explore the app interface directly in your browser
+  - Admin Dashboard with real-time session monitoring
+  - User Experience with tabbed navigation (Dashboard, Player, Requests, Issues)
+  - Interactive phone mockups with realistic UI animations
+
+### Dashboard Preview
+- **Active Sessions** – Empty state visualization
+- **Recently Added Media** – Poster-style cards with badges
+- **External Services Integration** – Radarr & Sonarr upcoming content display
+
+### Service Directory
+- **15+ Integrated Services** – Interactive grid with tooltips
+  - Click any service to view detailed descriptions
+  - Organized by category (Media Requests, Download Automation, Torrent Clients, Analytics, Server Management)
+  - Modern bento-grid design with glass-morphism effects
+
+### Design Highlights
+- **Material Design 3** – Consistent with the Android app
+- **Smooth Animations** – Fluid transitions and micro-interactions
+- **Glass-morphism UI** – Modern backdrop blur effects
+- **Responsive Layout** – Optimized for all screen sizes
+- **Gradient Accents** – Eye-catching color schemes
 
 ---
 
