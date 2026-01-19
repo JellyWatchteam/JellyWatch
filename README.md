@@ -1,173 +1,346 @@
-# JellyWatch
+<div align="center">
 
-**JellyWatch** is the ultimate Android application for monitoring and managing your **Jellyfin** servers in real time. With a sleek **Material Design 3** interface, it delivers a modern, intuitive, and powerful experience for media server administrators.
+# 🎬 JellyWatch
 
----
+### The Ultimate Jellyfin Server Management Experience
 
-## 📲 Key Features
+**Modern • Powerful • Intuitive**
 
-### Real-Time Monitoring
-- **Active sessions** – See all ongoing playback sessions  
-- **Detailed info** – User, media, progress, and playback status  
-- **Technical badges** – Resolution, video/audio codecs, container  
-- **Transcoding details** – Full stream information  
-
-### Server Management
-- **Multi-server support** – Connect multiple Jellyfin servers simultaneously  
-- **Secure authentication** – Classic login & QuickConnect support  
-- **Centralized control** – Easily switch between servers  
-
-### User Administration
-- **User list** – View all users  
-- **Activity tracking** – Last activity, permissions, admin status  
-- **Permissions management** – Visualize and edit user rights  
-- **Session messaging** – Send messages to users currently playing content  
-
-### Device Management
-- **Connected devices** – List all devices connected to the server  
-- **Activity tracking** – Timestamp of last connection  
-- **Full control** – Manage and remove devices  
-
-### System Tasks
-- **Task overview** – Visualize all scheduled tasks  
-- **Execution control** – Start, stop, or manage tasks  
-- **History logs** – View last executions with timestamps  
-
-### Media Libraries
-- **Library overview** – See all media libraries  
-- **Statistics** – Number of items per content type  
-
-### Media Content
-- **Series management** – Navigate by seasons and episodes  
-- **Viewing metrics** – Track series-specific stats  
-
-### Plugins & Extensions
-- **Plugin details** – Version, description, status  
-- **Activation status** – Clear visual indicators  
-
-### System Information
-- **Server info** – Jellyfin version, OS, architecture  
-- **Network configuration** – Connectivity settings  
-- **Updates** – Available version notifications  
-
-### Activity Logs
-- **Comprehensive logs** – Advanced filtering and search  
-
-### Viewing History
-- **Full history** – Track all watched content  
-- **User filtering** – Global or per-user view  
-- **Quick search** – Find specific media  
-- **Detailed info** – Duration, progress, timestamp  
-
-### Advanced Statistics
-- **User metrics** – Viewing time per user  
-- **Interactive charts** – Track trends over time  
-- **Custom periods** – Day, week, month, year  
-- **Content analysis** – Breakdown by media type  
-
-### Statistics Sharing
-- **Social sharing** – Share server statistics easily  
+[![Download on Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jellywatch.app)
+[![Website](https://img.shields.io/badge/Website-jellywatch.app-purple?style=for-the-badge&logo=safari&logoColor=white)](https://jellywatch.app)
+[![Material Design 3](https://img.shields.io/badge/Material_Design-3-blue?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/)
 
 ---
 
-## 🔗 External Services Integration
+**JellyWatch** is the ultimate Android application for monitoring and managing your **Jellyfin** media servers in real-time. Built with **Material Design 3**, it delivers a stunning, intuitive, and powerful experience for both administrators and users.
 
-**JellyWatch** seamlessly integrates with **15+ popular media management tools and systems**.  
-*Explore the full interactive showcase on our website!*
+[Explore Features](#-features) • [Admin Dashboard](#-admin-dashboard) • [User Experience](#-user-experience) • [Integrations](#-integrated-services) • [Download](#-download)
 
-- **Media Requests**
-  - Jellyseerr – Request and manage movies & TV shows
-  - Seerr – Alternative media request platform
-
-- **Download Automation**
-  - Radarr – Automated movie downloads & monitoring
-  - Sonarr – TV series automation & tracking
-  - Prowlarr – Indexer manager for *arr apps
-
-- **Torrent Clients**
-  - qBittorrent – Lightweight torrent client
-  - Deluge – Flexible BitTorrent client
-  - Transmission – Fast & easy torrent client
-  - uTorrent – Popular torrent application
-
-- **Analytics & Stats**
-  - Jellystat – Advanced Jellyfin statistics & analytics
-
-- **Server Management**
-  - TrueNAS – NAS storage management
-  - Unraid – Unraid server monitoring
-  - SSH – Secure shell server access
-  - WinRM – Windows Remote Management  
+</div>
 
 ---
 
-### Integrated Video Player
-- **Direct playback** – Watch media directly inside the app  
-- **Picture-in-Picture (PIP)** – Continue watching while multitasking  
+## ✨ Features
 
-### Widgets & Notifications
-- **Home screen widget** – Monitor your server at a glance  
-- **Push notifications** – Alerts for new sessions and events  
+### 🎯 Two Powerful Interfaces
 
-### System Control
-- **Remote administration** – Restart or shut down servers remotely  
-- **Connectivity testing** – Ping servers and verify network status  
+<table>
+<tr>
+<td width="50%">
+
+#### 👨‍💼 **For Administrators**
+Complete server control and monitoring with professional-grade tools for managing your Jellyfin infrastructure.
+
+</td>
+<td width="50%">
+
+#### 👥 **For Users**
+Beautiful media browsing experience with seamless playback, requests, and personalized recommendations.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌍 Multilingual Support
-- French, English, Spanish, Italian, German, Dutch  
-- Portuguese, Swedish, Hindi, Simplified Chinese, Traditional Chinese  
+## 🛡️ Admin Dashboard
+
+**Powerful administration tools for complete server management**
+
+### 📊 Real-Time Monitoring
+- **Active Sessions Dashboard**
+  - Live view of all ongoing playback sessions
+  - User, media title, and playback progress
+  - Technical details: resolution, codecs, container format
+  - Transcoding information and stream analysis
+  - Session control (pause, stop, message users)
+
+### 👥 User Management
+- **Complete User Control**
+  - View all registered users with detailed profiles
+  - Last activity tracking and login history
+  - Permission management and role assignment
+  - Admin status indicators
+  - Send messages to active users
+  - Enable/disable user accounts
+
+### 📱 Device Administration
+- **Connected Devices Overview**
+  - List all devices connected to your server
+  - Last connection timestamps
+  - Device identification and platform info
+  - Remote device management
+  - Remove inactive or unauthorized devices
+
+### ⚙️ System Management
+- **Scheduled Tasks**
+  - View all configured system tasks
+  - Start, stop, and manage task execution
+  - Task history with execution logs
+  - Success/failure status indicators
+  - Last run timestamps
+
+- **Server Information**
+  - Jellyfin version and build details
+  - Operating system and architecture
+  - Network configuration
+  - Storage statistics
+  - Update availability notifications
+
+- **System Control**
+  - Remote server restart
+  - Server shutdown commands
+  - Connectivity testing and ping
+  - Network diagnostics
+
+### 📚 Library Management
+- **Media Libraries Overview**
+  - All configured libraries at a glance
+  - Content statistics by type (Movies, Series, Music, Photos)
+  - Library scanning and refresh
+  - Storage usage per library
+
+### 🎬 Content Management
+- **Series & Episodes**
+  - Navigate by seasons and episodes
+  - Episode-specific viewing metrics
+  - Missing episode detection
+  - Series-level statistics
+
+### 🔌 Plugins & Extensions
+- **Plugin Directory**
+  - Installed plugins list
+  - Version information and updates
+  - Plugin descriptions and settings
+  - Enable/disable plugins
+  - Visual status indicators
+
+### 📝 Activity Logs
+- **Comprehensive Logging**
+  - System event logs with advanced filtering
+  - User activity tracking
+  - Error logs and warnings
+  - Search functionality
+  - Export capabilities
+
+### 📈 Advanced Analytics
+- **Statistics & Insights**
+  - User viewing metrics and trends
+  - Interactive charts and graphs
+  - Custom time periods (day, week, month, year)
+  - Content analysis by media type
+  - Viewing time per user
+  - Most watched content
+  - Peak usage hours
+
+### 📤 Statistics Sharing
+- **Social Integration**
+  - Generate beautiful server statistics cards
+  - Share on social media
+  - Showcase your media collection
+  - Customizable templates
+
+---
+
+## 🎨 User Experience
+
+**Beautiful interface designed for seamless media consumption**
+
+### 🏠 Dashboard
+- **Personalized Home Screen**
+  - Continue watching with progress tracking
+  - Recently added content
+  - Recommended movies and series
+  - Latest episodes from followed shows
+  - Quick access to favorite content
+
+### 🎮 Media Player
+- **Integrated Video Player**
+  - Direct playback within the app
+  - Picture-in-Picture (PIP) mode
+  - Subtitle support with customization
+  - Audio track selection
+  - Playback speed control
+  - Quality settings
+  - Resume from last position
+
+### 📚 Library Browser
+- **Intuitive Content Discovery**
+  - Movies, Series, Music, and Photos
+  - Grid and list view options
+  - Advanced sorting and filtering
+  - Genre-based browsing
+  - Year and rating filters
+  - Search with instant results
+
+### 🎯 Media Requests
+- **Request Management**
+  - Request movies and TV shows
+  - Integration with Jellyseerr/Seerr
+  - Track request status
+  - View pending and approved requests
+  - Request history
+
+### 🐛 Issue Reporting
+- **Problem Tracking**
+  - Report playback issues
+  - Media quality problems
+  - Subtitle issues
+  - Direct communication with admins
+
+### 📜 Viewing History
+- **Watch History**
+  - Complete viewing history
+  - Progress tracking
+  - Timestamps and duration
+  - Quick re-access to watched content
+  - Search and filter history
+
+---
+
+## 🔗 Integrated Services
+
+**Seamlessly connect with 15+ popular media management tools**
+
+<div align="center">
+
+### 🎬 Media Requests
+**Jellyseerr** • **Seerr**
+
+### 📥 Download Automation
+**Radarr** • **Sonarr** • **Prowlarr**
+
+### 🌐 Torrent Clients
+**qBittorrent** • **Deluge** • **Transmission** • **uTorrent**
+
+### 📊 Analytics & Stats
+**Jellystat**
+
+### 🖥️ Server Management
+**TrueNAS** • **Unraid** • **SSH** • **WinRM**
+
+</div>
+
+**Interactive Service Directory:** Visit our website to explore detailed descriptions and capabilities of each integration with interactive tooltips and modern bento-grid design.
 
 ---
 
 ## 🌐 Modern Web Experience
 
-Visit our **redesigned website** featuring an interactive showcase of JellyWatch's capabilities:
+**Explore JellyWatch through our interactive website showcase**
 
-### Interactive Features
-- **Live App Mockups** – Explore the app interface directly in your browser
-  - Admin Dashboard with real-time session monitoring
-  - User Experience with tabbed navigation (Dashboard, Player, Requests, Issues)
-  - Interactive phone mockups with realistic UI animations
+### ✨ Interactive Features
+- **Live Admin Dashboard Mockup**
+  - Real-time session monitoring visualization
+  - Recently added media with poster cards
+  - Radarr & Sonarr upcoming content display
+  - Empty state demonstrations
 
-### Dashboard Preview
-- **Active Sessions** – Empty state visualization
-- **Recently Added Media** – Poster-style cards with badges
-- **External Services Integration** – Radarr & Sonarr upcoming content display
+- **User Interface Preview**
+  - Tabbed navigation (Dashboard, Player, Requests, Issues)
+  - Interactive phone mockups
+  - Realistic UI animations
+  - Feature exploration
 
-### Service Directory
-- **15+ Integrated Services** – Interactive grid with tooltips
-  - Click any service to view detailed descriptions
-  - Organized by category (Media Requests, Download Automation, Torrent Clients, Analytics, Server Management)
-  - Modern bento-grid design with glass-morphism effects
+- **Service Directory**
+  - Click any service for detailed info
+  - Organized by category
+  - Glass-morphism design effects
+  - Smooth hover interactions
 
-### Design Highlights
-- **Material Design 3** – Consistent with the Android app
-- **Smooth Animations** – Fluid transitions and micro-interactions
-- **Glass-morphism UI** – Modern backdrop blur effects
-- **Responsive Layout** – Optimized for all screen sizes
-- **Gradient Accents** – Eye-catching color schemes
+### 🎨 Design Excellence
+- **Material Design 3** throughout
+- **Smooth animations** and micro-interactions
+- **Glass-morphism UI** with backdrop blur
+- **Responsive layout** for all devices
+- **Gradient accents** and modern color schemes
+
+---
+
+## 🌍 Multilingual Support
+
+**Available in 11 languages:**
+
+🇫🇷 French • 🇬🇧 English • 🇪🇸 Spanish • 🇮🇹 Italian • 🇩🇪 German • 🇳🇱 Dutch  
+🇵🇹 Portuguese • 🇸🇪 Swedish • 🇮🇳 Hindi • 🇨🇳 Simplified Chinese • 🇹🇼 Traditional Chinese
+
+---
+
+## 📱 Additional Features
+
+### 🔔 Notifications & Widgets
+- **Push Notifications**
+  - New session alerts
+  - Server status updates
+  - Content availability notifications
+  - Custom notification preferences
+
+- **Home Screen Widget**
+  - Server status at a glance
+  - Active sessions counter
+  - Quick server access
+  - Material You theming
+
+### 🔐 Security & Authentication
+- **Multiple Auth Methods**
+  - Classic username/password login
+  - QuickConnect support
+  - Secure token management
+  - Multi-server profiles
+
+### 🖥️ Multi-Server Management
+- **Server Profiles**
+  - Connect to multiple Jellyfin servers
+  - Quick server switching
+  - Independent authentication per server
+  - Server health monitoring
 
 ---
 
 ## 📥 Download
 
-**Available on Google Play:**  
-➡️ [Download JellyWatch](https://play.google.com/store/apps/details?id=com.jellywatch.app)  
+<div align="center">
 
-Official website:  
-🌐 [https://jellywatch.app](https://jellywatch.app)  
+### Get JellyWatch Today
+
+[![Google Play](https://img.shields.io/badge/Download_on-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jellywatch.app)
+
+**Official Website:** [https://jellywatch.app](https://jellywatch.app)
+
+**Requirements:** Android 7.0+ • Jellyfin Server 10.8.0+
+
+</div>
 
 ---
 
 ## 🆘 Support
 
-All support requests must be submitted **within the application** via:  
-**Help > Contact Support**  
+**Need Help?**
 
-> ❗ Note: This GitHub repository is not used for bug reports, feature requests, or technical assistance.
+All support requests must be submitted **within the application**:
+
+**Settings → Help → Contact Support**
+
+> ℹ️ **Note:** This GitHub repository is not used for bug reports, feature requests, or technical assistance. Please use the in-app support system for the fastest response.
 
 ---
 
-© 2026 JellyWatch. All rights reserved.
+## 🏗️ Technology Stack
+
+- **Frontend:** Kotlin + Jetpack Compose
+- **Architecture:** MVVM with Clean Architecture
+- **Design:** Material Design 3 + Material You
+- **Networking:** Retrofit + OkHttp
+- **Async:** Coroutines + Flow
+
+---
+
+<div align="center">
+
+### Made with ❤️ for the Jellyfin Community
+
+**© 2026 JellyWatch. All rights reserved.**
+
+[Website](https://jellywatch.app) • [Privacy Policy](https://jellywatch.app/privacy) • [Terms of Service](https://jellywatch.app/terms)
+
+</div>
